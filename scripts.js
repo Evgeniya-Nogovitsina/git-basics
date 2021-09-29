@@ -1,0 +1,3 @@
+$(fuction(){
+    console.log('YES');
+});
